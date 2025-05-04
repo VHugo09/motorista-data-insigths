@@ -1,11 +1,16 @@
-# Motorista Data Insights
+# 🚘 Motorista Data Insights
 
-Análise exploratória de dados de corridas de um motorista de aplicativo para entender padrões de ganhos, horários ideais e regiões mais lucrativas.
+Análise exploratória de dados de corridas de motoristas de aplicativo para entender padrões de ganhos, horários ideais e regiões mais lucrativas.
 
-## Objetivo
-Utilizar dados reais para gerar recomendações de otimização para motoristas parceiros.
+## 🎯 Objetivos
+Ajudar motoristas a aumentar seus ganhos entendendo:
 
-## Estrutura
+* Melhores horários para trabalhar
+* Dias da semana mais lucrativos por hora trabalhada
+* Viagens mais lucrativas
+* Tempo ocioso e como evitá-los
+
+## 🗂️ Estrutura
 - `data/`: dados originais (não versionados)
 - `notebooks/`: análises exploratórias
 - `src/`: scripts reaproveitáveis
