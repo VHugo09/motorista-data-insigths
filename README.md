@@ -22,15 +22,15 @@ Os gráficos desenvolvidos têm como objetivo gerar inteligência prática para 
 
 1. **📅 Corridas por Dia da Semana:**  
    Mostra a média de corridas realizadas em cada dia da semana. Isso ajuda o motorista a identificar quais dias têm maior demanda.  
-   ![Corridas por Dia da Semana](outputs/corridas_por_dia.png)
+   ![Corridas por Dia da Semana](outputs/qtd_corridas_por_dia.png)
 
 2. **⏱️ Horas Trabalhadas por Dia:**  
    Mede o tempo total de trabalho por dia. Permite entender em quais dias o motorista tende a trabalhar mais e ajustar sua rotina para otimizar esforço versus retorno.  
-   ![Horas Trabalhadas por Dia](outputs/tempo_trabalho_por_dia.png)
+   ![Horas Trabalhadas por Dia](outputs/horas_trabalhadas_por_dia.png)
 
 3. **💰 Ganhos Totais por Dia:**  
    Compara a média de ganhos totais por dia. É fundamental para perceber quais dias são mais lucrativos em termos absolutos.  
-   ![Ganhos por Dia](outputs/ganhos_por_dia.png)
+   ![Ganhos por Dia](outputs/ganhos_totais_dia.png)
 
 4. **🕒 Ganhos por Hora Trabalhada:**  
    Este é o principal indicador de eficiência. Mostra em quais dias o motorista ganha mais por hora, revelando os períodos com melhor custo-benefício de trabalho.  
